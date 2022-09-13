@@ -26,5 +26,8 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 ### Flourish Image: Part 2: Working with Flourish - Visualisation 2 
 
+#### For this visualisation I have used area chart. Area chart shows a continuous change in the data throughout the years and hence looks better and clearer than both bar chat and grid of lines chart. I thought that in grid of line charts it as difficult for the viewer to connect the value to x-axis, a problem solved in the area chart.
+#### For this visualisation, I also tried 
+
 <iframe src='https://flo.uri.sh/visualisation/11164664/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:120%;height:900px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11164664/?utm_source=embed&utm_campaign=visualisation/11164664' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
