@@ -1,5 +1,7 @@
+### Assignment 3 & 4: Critique by Design
 
-### Rate of homelessness: Data and Image taken from https://apnews.com/article/business-47662ad74baf4bb09f40619e4fd25a94 
+
+#### Rate of homelessness: Data and Image taken from https://apnews.com/article/business-47662ad74baf4bb09f40619e4fd25a94 
 
 Top Ten State with highest rates of homelessness and US average
 
