@@ -9,6 +9,9 @@ Top Ten State with highest rates of homelessness and US average
 
 #### Documentation explaining my process
 
+Reason why I chose this visualisation:
+While going through various news articles, I came across this one where when I saw the visualisation without reading the article, I had no idea what was going on in it. On the other hand, it was directly contradicting what the article's headline was saying. So I decided to choose this visualisation, where I can make a lot of changes.
+
 The title of the article states that “America’s homeless population rises for first time in years”, but taking a first look at the visualization, it is not clear if the homeless population has increased or decreased as a lot of lines have been shown which can confuse the reader. Taking a closer look at the visualization, we can see that the US average was 17.3% in 2015, and it has dropped to 17% in 2017, indicating a decrease in the homeless population. which contradicts the headline of the article. So the visualization is rated lowest on the truthfulness scale.
 Using the same colored lines to show both the increasing and decreasing rates of homelessness in various states is really hard to follow, especially in the lower section of the visualization where a lot of lines are intersecting with each other and creating chaos. That’s why the permeability scale and intuitiveness scale have been rated lower.
 Writing names of the states and their rates on both axes really helps to understand if the homelessness rate has increased or decreased in that state, although the intersecting lines make it a bit confusing. So the data has been displayed in a good way, but the visualization is not.
