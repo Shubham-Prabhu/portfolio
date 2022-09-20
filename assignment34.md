@@ -31,11 +31,32 @@ These are the two wireframes/sketches I planned to use.
 ![Assignment32Final](https://user-images.githubusercontent.com/112986330/191380137-1dd799df-4ea4-4b39-8b7d-4d83e81cb7ac.jpeg)
 ![Assignment31Final](https://user-images.githubusercontent.com/112986330/191380169-f124df59-6a2e-44a8-9746-d82d21f53517.jpeg)
 
+Here as you can see, I have made two similar sketches. As mentioned before, I have opted for bar graphs, but I was not sure how to show the national average rate in this. As you can see, in one of them, the US average is shown by a set of bars like the rest and in other it is shown as lines overlapping the bar.
 
+#### Feedback for the wireframe/sketches
+I got the opportunity to show my sketches to two individuals.
 
+Individual 1: Student mid 20s
+- Can you tell me what you think this is?
+Individual 1 was quickly able to grasp what the visualisation was trying to show and where to focus in the visualisation.
+- Is there anything you find surprising or confusing?
+Individual 1 did not find anything confusing.
+Out of the two visualisations shown, Individual preferred the first one as they thought the lines showing the US average were a bit confusing and not adding anythingtot he visualisation.
 
+Individual 2: Stduent mid 20s
+- Can you tell me what you think this is?
+Individual 2 was quickly able to grasp what the visualisation was trying to show and where to focus in the visualisation.
+- Is there anything you find surprising or confusing?
+Individual 1 did not find anything confusing.
+Individual 2 suggested me to change the colors, as the colors were pretty close to each other and they weren't able to differentiate between the two colors in the sketch.
 
+####  Document what you changed based on the user feedback in your redesign.
+Both the individuals liked the sketches and didn't have many changes to suggest. 
+The only change that I implemented from their suggestion was to change the colors. Blue and purple were looking similar, and they weren't able to differtiate between them. To solve this issue I decided to go with 2 contrasting colors: Shade of blue and shade of yellow.
 
+#### Final Visualisation
+
+<iframe src='https://flo.uri.sh/visualisation/11238238/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11238238/?utm_source=embed&utm_campaign=visualisation/11238238' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
