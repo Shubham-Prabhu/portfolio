@@ -21,4 +21,18 @@ Improving the visualisation:
 I would like to opt for bar charts to visualize this data, bar charts solve the problem of intersecting lines and will avoid confusion for the reader. I would also like to change the title to what the data tells us, rather than the title given by the article which is not true according to the data. Color can also be changed, since the US average rate is hardly visible in this visualization.
 I will also be taking the state and its 2 years besides each othe rin bar chart to show th change in 2 years to the viewer.
 
+#### Summary of my wireframes
+
+These are the two wireframes/sketches I planned to use.
+
+![Assignment32Final](https://user-images.githubusercontent.com/112986330/191380137-1dd799df-4ea4-4b39-8b7d-4d83e81cb7ac.jpeg)
+![Assignment31Final](https://user-images.githubusercontent.com/112986330/191380169-f124df59-6a2e-44a8-9746-d82d21f53517.jpeg)
+
+
+
+
+
+
+
+
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
