@@ -10,15 +10,11 @@ I hope to make best possible visualisations from the given data-set, which will 
 # Portfolio
 Here's where my all my work and assignments will be.
 
-# Assignment 2: Visualizing government debt
-
-### General government debt: Image taken from https://data.oecd.org/gga/general-government-debt.htm 
+# Assignment 2: Visualizing government debt 
 
 Link to General Government debt Visualisation [Link to Dataviz2](https://shubham-prabhu.github.io/portfolio/dataviz2.html)
 
-# Assignment 3 & 4: Visualizing government debt
-
-### Rate of homelessness: Data and Image taken from https://apnews.com/article/business-47662ad74baf4bb09f40619e4fd25a94
+# Assignment 3 & 4: Critique by Design
 
 Link to the Visualisation and Assignment 3 & 4 [Link to Assignment 3 & 4](https://shubham-prabhu.github.io/portfolio/assignment34.html)
 
