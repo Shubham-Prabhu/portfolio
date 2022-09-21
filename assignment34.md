@@ -65,6 +65,8 @@ After the feedback, 2 distinct colors were chosen which can be differentiated ea
 
 Since I also wanted to draw the focus of the viewer on the US rate, I wanted to give them different colors to highlight them better. Unfortunately I wasn't able to do that on Flourish, hence I took that image and edited it outside the Flourish. I wanted to show how the national average has decrease, which is a good thing highlighted by green color. Hereby attaching the edited image which is what I wanted my final visualisation to be.
 
+Here the red color indicates US Average Homelessness Rate in 2015 and green color indicates US Average Homelessness rate in 2017 (an improvement over previous year).  
+
 ![Flourish34](https://user-images.githubusercontent.com/112986330/191385734-e1bdc696-bb27-4962-893c-b900290ec438.png)
 
 
