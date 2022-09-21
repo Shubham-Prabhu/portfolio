@@ -43,14 +43,14 @@ Individual 1: Student mid 20s
 Individual 1 was quickly able to grasp what the visualisation was trying to show and where to focus in the visualisation.
 - Is there anything you find surprising or confusing?
 Individual 1 did not find anything confusing.
-Out of the two visualisations shown, Individual preferred the first one as they thought the lines showing the US average were a bit confusing and not adding anything to the visualisation.
+Out of the two visualisations shown, Individual preferred the second one as they thought the lines showing the US average were a bit confusing and not adding anything to the visualisation. 
 
 Individual 2: Stduent mid 20s
 - Can you tell me what you think this is?
 Individual 2 was quickly able to grasp what the visualisation was trying to show and where to focus in the visualisation.
 - Is there anything you find surprising or confusing?
-Individual 1 did not find anything confusing.
-Individual 2 suggested me to change the colors, as the colors were pretty close to each other and they weren't able to differentiate between the two colors in the sketch.
+Individual 2 did not find anything confusing.
+Individual 2 suggested me to change the colors, as the colors were pretty close to each other and they weren't able to differentiate between the two colors in the sketch. Just like Individual 1, Individual 2 also preferred the second sketch as it was more clear.
 
 ####  Document what you changed based on the user feedback in your redesign.
 Both the individuals liked the sketches and didn't have many changes to suggest. 
