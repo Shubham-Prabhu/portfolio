@@ -63,4 +63,10 @@ The only change that I implemented from their suggestion was to change the color
 Here I implemented bar graph to de-clutter the chaos created by line graph and so that the viewer can easily understand the change between 2 years.
 After the feedback, 2 distinct colors were chosen which can be differentiated easily by all the readers.
 
+Since I also wanted to draw the focus of the viewer on the US rate, I wanted to give them different colors to highlight them better. Unfortunately I wasn't able to do that on Flourish, hence I took that image and edited it outside the Flourish. I wanted to show how the national average has decrease, which is a good thing highlighted by green color. Hereby attaching the edited image which is what I wanted my final visualisation to be.
+
+![Flourish34](https://user-images.githubusercontent.com/112986330/191385734-e1bdc696-bb27-4962-893c-b900290ec438.png)
+
+
+
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
