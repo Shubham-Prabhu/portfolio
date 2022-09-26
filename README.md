@@ -18,4 +18,7 @@ Link to General Government debt Visualisation [Link to Dataviz2](https://shubham
 
 Link to the Visualisation and Assignment 3 & 4 [Link to Assignment 3 & 4](https://shubham-prabhu.github.io/portfolio/assignment34.html)
 
+# Part I: Final project
+
+Link to the Part I: Final project [Part I: Final project](https://shubham-prabhu.github.io/portfolio/assignment34.html)
 
