@@ -20,5 +20,5 @@ Link to the Visualisation and Assignment 3 & 4 [Link to Assignment 3 & 4](https:
 
 # Part I: Final project
 
-Link to the Part I: Final project [Part I: Final project](https://shubham-prabhu.github.io/portfolio/assignment34.html)
+Link to the Part I: Final project [Part I: Final project](https://shubham-prabhu.github.io/portfolio/final_project_Shubham.html)
 
