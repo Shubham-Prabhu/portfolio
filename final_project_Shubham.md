@@ -20,6 +20,9 @@ b) After the feedback in the class, I was suggested to use TreeMap instead of Pi
 c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States
 ![Final1Bar1](https://user-images.githubusercontent.com/112986330/192615850-b0bd29eb-1c26-4950-b028-0f0b0d87cd6e.png)
 
+d) This bar graph depicts Age-adjusted percentage of adults aged 20 and over who consumed fast food on a given day, by sex and race
+![Final1Bar2](https://user-images.githubusercontent.com/112986330/192642191-dd1ef0b1-f7b0-46bb-9f81-f5a3d777601a.png)
+
 #### Data Sources for Visualisations
 a) https://www.healthline.com/health/leading-causes-of-death <br />
 I will be using this website to web-scrap the data related to deaths caused and the reasons behind it and use this data for my first visualisation. <br />
