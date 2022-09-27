@@ -14,7 +14,10 @@ c) Further continuing this story, I would like to show what categories of people
 a) This pie-chart depicts the percentage of various causes of deaths in the United States
 ![Final1Pie](https://user-images.githubusercontent.com/112986330/192617807-1acc0237-4e1d-411f-b412-931c434ca6d3.png)
 
-b)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States
+b) After the feedback in the class, I was suggested to use TreeMap instead of Pie-Chart, as it will make it more clear.
+![Final1TreeMap](https://user-images.githubusercontent.com/112986330/192625192-fba2c6f4-ac5a-4435-ae22-f0eb2c383290.png)
+
+c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States
 ![Final1Bar1](https://user-images.githubusercontent.com/112986330/192615850-b0bd29eb-1c26-4950-b028-0f0b0d87cd6e.png)
 
 #### Data Sources for Visualisations
