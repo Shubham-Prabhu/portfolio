@@ -11,6 +11,9 @@ b) I would now continue this story by showing what percentage of poeple in Unite
 c) Further continuing this story, I would like to show what categories of people in the United States are more inclined towards consuming fast-food on a daily basis.
 
 #### Initial Sketches / Wirefames
+![Final1Pie](https://user-images.githubusercontent.com/112986330/192615821-d831e705-fd6a-444b-8a05-22e23683ff76.png)
+
+![Final1Bar1](https://user-images.githubusercontent.com/112986330/192615850-b0bd29eb-1c26-4950-b028-0f0b0d87cd6e.png)
 
 #### Data Sources for Visualisations
 a) https://www.healthline.com/health/leading-causes-of-death <br />
