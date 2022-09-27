@@ -11,8 +11,10 @@ b) I would now continue this story by showing what percentage of poeple in Unite
 c) Further continuing this story, I would like to show what categories of people in the United States are more inclined towards consuming fast-food on a daily basis.
 
 #### Initial Sketches / Wirefames
+a) This pie-chart depicts the percentage of various causes of deaths in the United States
 ![Final1Pie](https://user-images.githubusercontent.com/112986330/192615821-d831e705-fd6a-444b-8a05-22e23683ff76.png)
 
+b)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States
 ![Final1Bar1](https://user-images.githubusercontent.com/112986330/192615850-b0bd29eb-1c26-4950-b028-0f0b0d87cd6e.png)
 
 #### Data Sources for Visualisations
