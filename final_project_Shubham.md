@@ -10,6 +10,14 @@ a) Visualisation depicting total number of deaths in the United States and the r
 b) I would now continue this story by showing what percentage of poeple in United States consume fast-food on a daily basis, which is one of the most important reason behind obesity related diseases. <br />
 c) Further continuing this story, I would like to show what categories of people in the United States are more inclined towards consuming fast-food on a daily basis.
 
+#### Initial Sketches / Wirefames
+
+#### Data Sources for Visualisations
+a) https://www.healthline.com/health/leading-causes-of-death <br />
+I will be using this website to web-scrap the data related to deaths caused and the reasons behind it and use this data for my first visualisation. <br />
+b) https://www.cdc.gov/nchs/data/databriefs/db322_table.pdf#page=1 <br />
+I will be using this website to get the necessary information showing what percentage of poeple in United States consume fast-food on a daily basis and further categorise them into various categories.
+
 #### References
 (1) https://www.wvdhhr.org/bph/oehp/obesity/mortality.htm#:~:text=According%20to%20the%20National%20Institutes,the%20obesity%20epidemic%20(57).
 
