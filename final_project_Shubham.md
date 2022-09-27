@@ -18,6 +18,9 @@ I will be using this website to web-scrap the data related to deaths caused and 
 b) https://www.cdc.gov/nchs/data/databriefs/db322_table.pdf#page=1 <br />
 I will be using this website to get the necessary information showing what percentage of poeple in United States consume fast-food on a daily basis and further categorise them into various categories.
 
+#### Platform
+I will be using Shorthand platform for my final project. I will be using multiple visualisations to form a story that I want to tell as I have mentioned above. 
+
 #### References
 (1) https://www.wvdhhr.org/bph/oehp/obesity/mortality.htm#:~:text=According%20to%20the%20National%20Institutes,the%20obesity%20epidemic%20(57).
 
