@@ -8,7 +8,8 @@ Here I would like to visualise how obesity related diseases are the cause behind
 #### Project Structure
 a) Visualisation depicting total number of deaths in the United States and the reasons behind them. Here I would like to show how obesity related diseases are one of the major leading reasons behind the deaths. <br />
 b) I would now continue this story by showing what percentage of poeple in United States consume fast-food on a daily basis, which is one of the most important reason behind obesity related diseases. <br />
-c) Further continuing this story, I would like to show what categories of people in the United States are more inclined towards consuming fast-food on a daily basis.
+c) Further continuing this story, I would like to show what categories of people in the United States are more inclined towards consuming fast-food on a daily basis. <br />
+d) I want to tell a story how different factors affect fast-fooding eating habits of people in the United States and analyse and who should particularly be more conscious about eating more fast-food.
 
 #### Initial Sketches / Wirefames
 a) This pie-chart depicts the percentage of various causes of deaths in the United States
@@ -22,6 +23,10 @@ c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast
 
 d) This bar graph depicts Age-adjusted percentage of adults aged 20 and over who consumed fast food on a given day, by sex and race
 ![Final1Bar2](https://user-images.githubusercontent.com/112986330/192642191-dd1ef0b1-f7b0-46bb-9f81-f5a3d777601a.png)
+
+<br />
+<br />
+To further these sketches, I want to tell a story how different factors affect fast-fooding eating habits of people in the United States and analyse and who should particularly be more conscious about eating more fast-food.
 
 #### Data Sources for Visualisations
 a) https://www.healthline.com/health/leading-causes-of-death <br />
