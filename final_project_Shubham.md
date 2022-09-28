@@ -37,7 +37,8 @@ I will be using this website to get the necessary information showing what perce
 
 #### Platform
 I will be using Shorthand platform for my final project. I will be using multiple visualisations to form a story that I want to tell as I have mentioned above. <br />
-I will also be using Tableau to visualise the datasets and make various visualisations on the same.
+I will also be using Tableau and FLourish to visualise the datasets and make various visualisations on the same. <br />
+With the help of these visualisation, I plan to depict a story flow for the issue of fast-food consumption and obesity.
 
 #### Project Completion Process
 a) Data sources and the basic story line has been identified.<br />
