@@ -48,7 +48,7 @@ a) Data sources and the basic story line has been identified.<br />
 b) Basic sketches / wireframes for the story have been created. <br />
 c) Next step will be to show these sketches to multiple people and take their feedback to improve the skethces. <br />
 d) Then I will be implementing these feedbacks in my sketches. <br />
-e) Once the sketches have been identified, I will be using Tableau to finalise these visualisations digitally. <br />
+e) Once the sketches have been identified, I will be using Tableau / Flourish to finalise these visualisations digitally. <br />
 f) Once the visualisations are finalised, I will be using Shorthand to make a presentation / story flow for the final project.
 
 
