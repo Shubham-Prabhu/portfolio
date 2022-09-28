@@ -3,7 +3,7 @@
 #### Summary for the Final Project
 
 According to the National Institutes of Health, obesity related diseases are responsible for the second highest number of deaths in United States, second only to tobacco(1). It has also been studied that most of the obesity related deaths are related to high amount of fast-food consumption and lack of exercise.
-Here I would like to visualise how obesity related diseases are the cause behind human deaths in United States and also understand what percentage of people in the United States are consuming fast-food on a daily basis, what categories of people consume most amount of fast-food and how it is affecting their health in the long run.
+Here I would like to visualise how obesity related diseases are the cause behind human deaths in United States and also understand what percentage of people in the United States are consuming fast-food on a daily basis, what categories of people consume most amount of fast-food and how it is affecting their health in the long run. With this I want to address everyone to reduce the consumption of fast-food and live a healthier and longer life.
 
 #### Project Structure
 a) Visualisation depicting total number of deaths in the United States and the reasons behind them. Here I would like to show how obesity related diseases are one of the major leading reasons behind the deaths. <br />
@@ -23,7 +23,8 @@ c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast
 
 d) This bar graph depicts Age-adjusted percentage of adults aged 20 and over who consumed fast food on a given day, by sex and race
 ![Final1Bar2](https://user-images.githubusercontent.com/112986330/192642191-dd1ef0b1-f7b0-46bb-9f81-f5a3d777601a.png)
-
+<br />
+Here I'll also be adding few more sketches to continue this story in final project.
 <br />
 <br />
 To further these sketches, I want to tell a story how different factors affect fast-fooding eating habits of people in the United States and analyse and who should particularly be more conscious about eating more fast-food.
