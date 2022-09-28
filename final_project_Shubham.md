@@ -19,10 +19,12 @@ As we can see here, heart disease, lower respiratory infections, diabetes and CO
 b) After the feedback in the class, I was suggested to use TreeMap instead of Pie-Chart, as it will make it more clear.
 ![Final1TreeMap](https://user-images.githubusercontent.com/112986330/192625192-fba2c6f4-ac5a-4435-ae22-f0eb2c383290.png)
 
-c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States
+c)This bar graph depicts Percentage of adults aged 20 and over who consumed fast food on a given day, by sex and age: United States <br />
+This chart shows that more than 1/3rd of the adult american population consumes fast-food on a daily basis, which is very harmful to their health.
 ![Final1Bar1](https://user-images.githubusercontent.com/112986330/192615850-b0bd29eb-1c26-4950-b028-0f0b0d87cd6e.png)
 
-d) This bar graph depicts Age-adjusted percentage of adults aged 20 and over who consumed fast food on a given day, by sex and race
+d) This bar graph depicts Age-adjusted percentage of adults aged 20 and over who consumed fast food on a given day, by sex and race <br />
+Like race, I'll also be adding socio-economic factors, and eating occasion to further this story and address the audience on who is more likely to consume fast-food in the country.
 ![Final1Bar2](https://user-images.githubusercontent.com/112986330/192642191-dd1ef0b1-f7b0-46bb-9f81-f5a3d777601a.png)
 <br />
 Here I'll also be adding few more sketches to continue this story in final project.
