@@ -12,7 +12,8 @@ c) Further continuing this story, I would like to show what categories of people
 d) I want to tell a story how different factors affect fast-fooding eating habits of people in the United States and analyse and who should particularly be more conscious about eating more fast-food.
 
 #### Initial Sketches / Wirefames
-a) This pie-chart depicts the percentage of various causes of deaths in the United States
+a) This pie-chart depicts the percentage of various causes of deaths in the United States. <br />
+As we can see here, heart disease, lower respiratory infections, diabetes and COPD are all related to obesity which indicates that obesity is in fact one of the highest leading reasons behind the deaths.
 ![Final1Pie](https://user-images.githubusercontent.com/112986330/192617807-1acc0237-4e1d-411f-b412-931c434ca6d3.png)
 
 b) After the feedback in the class, I was suggested to use TreeMap instead of Pie-Chart, as it will make it more clear.
