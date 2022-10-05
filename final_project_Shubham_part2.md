@@ -35,15 +35,21 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 
 1) Do you find the Title or the Title Page Picture offensive? <br />
 - One of them said, "Since the title and focal point of your project is obesity, it makes sense to add pictures and titles related to obesity and it ideally shouldn't offend anyone". <br />
-- All three of them had simila views on this and assured me that no one will be offended by this. <br />
+- All three of them had similar views on this and assured me that no one will be offended by this. <br />
 
 2) Are the visualisations easy to understand and convey the facts mentioned? <br />
 - One of the interviewees mentioned that from the first visualisation it seems that "others" is the biggest category, and makes it difficult to understand how other categories related to obesity are related. <br />
 - Second interviewee suggested to totally removing the "others" category as it making the visualisation more confusing. <br />
 - Third interviewee also echoed similar concerns regarding the tree map, that is bit confusing and diseases related to obesity are not being focussed upon. <br />
 - All three were satisified with the remaining visualisations and found all of them very clear to understand. <br />
+
+3) Is the background described for the issue effective enough? OR Does the background make you aware of the issue I am talking about? <br />
+- All the 3 interviewees found the background very compelling to bring focus to the issue I want to display. <br />
+- One of the interviewees mentioned that relation between the 12 fatal diseases mentioned and obesity is not strong enough, they also suggested some more infromation about these diseases are directly related to obesity will help readers understand the issue better. <br />
+- The second user was really surprised by the fact that nearly 1/3rd of the population is defined as overweight/obese in the United States.
+
+4) Is the story compelling and clear enough to understand and is the story flow making sense to you? <br />
 - 
-3) 
 
 ###### Changes you plan on implementing to your visualizations next week to address the issues identified  
 
