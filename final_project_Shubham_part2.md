@@ -14,17 +14,26 @@ Currently since this is just a draft, I haven't mentioned all the references in 
 
 ##### User Research Protocol
 
-a. The target audience you hope to reach with your story: <br />
-- Adults residing in the US <br />
+The target audience you hope to reach with your story: <br />
+- Adults residing in the US. <br />
 
-b. Your approach to identifying representative individuals to interview:
+Your approach to identifying representative individuals to interview:
 - I looked around for adults who currently reside in the US so that they can understand the issue better and give me the required feedback. <br />
 
-c. Your interview script: <br />
-- 
+###### Interview script
+My purpose of conducting the user interviews was to make sure that the point I am trying to make is easily reaching the intended audience, the audience understands why this issue is important and if they are convinced with the reasoning behind call to action. Also, since obesity is a sensitive topic, I also wanted to make sure that the images, titles and the wordings used in Story line are not offending anyone.  <br />
 
-d. The findings from your interviews: <br />
+Research Questions for Interview: <br />
+1) Do you find the Title or the Title Page Picture offensive? <br />
+2) Is the background described for the issue effective enough? OR Does the background make you aware of the issue I am talking about? <br />
+3) Is the call for action effective for you to act on it? <br />
+4) Are the visualisations easy to understand and convey the facts mentioned?
+5) Is the story compelling and clear enough to understand and is the story flow making sense to you? 
 
-e. Changes you plan on implementing to your visualizations next week to address the issues identified: <br /> 
+###### The findings from your interviews 
+I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Developer in early 30s. <br />
+
+
+###### Changes you plan on implementing to your visualizations next week to address the issues identified  
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
