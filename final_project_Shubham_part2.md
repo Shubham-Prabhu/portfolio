@@ -11,6 +11,8 @@ I have used Shorthand to create a draft for the story I want to tell. I have als
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
 
+Currently since this is just a draft, I haven't mentioned all the references in the Shorthand, I will be adding all the references and the resources that I used before submitting the final project.
+
 #### User research and interviews
 
 
