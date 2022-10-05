@@ -58,6 +58,8 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 - All the three interviewees mentioned that the story was effective enough for them to understand the gravity of the issue and hence call to action made sense to them.<br />
 - One of the interviewees mentioned that they would like to see more actions that are needed and if there are any steps taken by the government or other prominent organisation to tackle this issue.
 
-###### Changes you plan on implementing to your visualizations next week to address the issues identified  
+###### Changes you plan on implementing to your visualizations next week to address the issues identified 
+After carefully listening to feedback of the 3 interviewees and also the feedback that I receieved in the class, I have realised that some changes are needed to make this story line even better, less confusing and more compelling to the intended audience.
+1) 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
