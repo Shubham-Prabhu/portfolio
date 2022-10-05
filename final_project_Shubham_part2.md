@@ -12,5 +12,19 @@ Currently since this is just a draft, I haven't mentioned all the references in 
 
 #### User research and interviews
 
+##### User Research Protocol
+
+a. The target audience you hope to reach with your story: <br />
+- Adults residing in the US <br />
+
+b. Your approach to identifying representative individuals to interview:
+- I looked around for adults who currently reside in the US so that they can understand the issue better and give me the required feedback. <br />
+
+c. Your interview script: <br />
+- 
+
+d. The findings from your interviews: <br />
+
+e. Changes you plan on implementing to your visualizations next week to address the issues identified: <br /> 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
