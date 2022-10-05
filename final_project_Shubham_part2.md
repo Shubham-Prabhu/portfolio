@@ -79,4 +79,6 @@ The other change I want to make is highlight or color all the diseases related t
 
 4) I haven't really taken a detailed view for exercises as a factor for reducing obesity, I plan to including that in the final presentation as it well support me better for my call to action statement. <br />
 
+5) I also will be adding more visualisations in the Story to show the impact of obesity and higher calorie intake in North America.
+
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
