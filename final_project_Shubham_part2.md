@@ -49,7 +49,14 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 - The second user was really surprised by the fact that nearly 1/3rd of the population is defined as overweight/obese in the United States.
 
 4) Is the story compelling and clear enough to understand and is the story flow making sense to you? <br />
-- 
+- One of the interviewees mentioned that the format of starting by giving the background, then stating the reasoning and data for it and then concluding it was a good way to present this issue. <br />
+- The Second interviewee mentioned that one thing did not make sense while looking at the flow, they asked why the obesity related to races is mentioned, and if it is important then why further information about it is missing. <br />
+- The third interviewee thought overall the story flow was good, but mentioned that they did not understand the relevance of obesity by state visualisation in the story line and what the author was trying to say about it. <br />
+- Overall, all three mentioned that they would highly rate the flow of the story, barring a 1-2 confusing things in it.
+
+5) Is the call for action effective for you to act on it? <br />
+- All the three interviewees mentioned that the story was effective enough for them to understand the gravity of the issue and hence call to action made sense to them.<br />
+- One of the interviewees mentioned that they would like to see more actions that are needed and if there are any steps taken by the government or other prominent organisation to tackle this issue.
 
 ###### Changes you plan on implementing to your visualizations next week to address the issues identified  
 
