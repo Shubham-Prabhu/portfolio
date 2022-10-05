@@ -67,6 +67,8 @@ The other change I want to make is highlight or color all the diseases related t
 
 2) I also would like to make a more compelling statement as to how these diseases that I have highlighted have obesity as one of the major factors as their root cause, this will help me make the reader understand how obesity is the 2nd highest reason for deaths in the United States. <br />
 
-3) 
+3) I'll also to like to look deeper and explore race wise and state wise obesity causes, reasons, factors and anaylse them as well and try to figure out relations between them. More data regarding these trends will help reade understand who is more prone to obesity and help them act accordingly. <br />
+
+4) I haven't really taken a detailed view for exercises as a factor for reducing obesity, I plan to including that in the final presentation as it well support me better for my call to action statement. <br />
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
