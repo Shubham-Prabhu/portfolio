@@ -20,7 +20,7 @@ The target audience you hope to reach with your story: <br />
 Your approach to identifying representative individuals to interview:
 - I looked around for adults who currently reside in the US so that they can understand the issue better and give me the required feedback. <br />
 
-###### Interview script
+##### Interview script
 My purpose of conducting the user interviews was to make sure that the point I am trying to make is easily reaching the intended audience, the audience understands why this issue is important and if they are convinced with the reasoning behind call to action. Also, since obesity is a sensitive topic, I also wanted to make sure that the images, titles and the wordings used in Story line are not offending anyone.  <br />
 
 Research Questions for Interview: <br />
@@ -30,7 +30,7 @@ Research Questions for Interview: <br />
 4) Is the story compelling and clear enough to understand and is the story flow making sense to you? <br />
 5) Is the call for action effective for you to act on it? <br />
 
-###### The findings from your interviews 
+##### The findings from your interviews 
 I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Developer in early 30s. <br />
 
 1) Do you find the Title or the Title Page Picture offensive? <br />
@@ -58,8 +58,8 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 - All the three interviewees mentioned that the story was effective enough for them to understand the gravity of the issue and hence call to action made sense to them.<br />
 - One of the interviewees mentioned that they would like to see more actions that are needed and if there are any steps taken by the government or other prominent organisation to tackle this issue.
 
-###### Changes you plan on implementing to your visualizations next week to address the issues identified 
-After carefully listening to feedback of the 3 interviewees and also the feedback that I receieved in the class, I have realised that some changes are needed to make this story line even better, less confusing and more compelling to the intended audience.
+##### Changes you plan on implementing to your visualizations next week to address the issues identified 
+After carefully listening to feedback of the 3 interviewees and also the feedback that I receieved in the class, I have realised that some changes are needed to make this story line even better, less confusing and more compelling to the intended audience. <br />
 1) 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
