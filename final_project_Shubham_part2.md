@@ -58,13 +58,15 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 - All the three interviewees mentioned that the story was effective enough for them to understand the gravity of the issue and hence call to action made sense to them.<br />
 - One of the interviewees mentioned that they would like to see more actions that are needed and if there are any steps taken by the government or other prominent organisation to tackle this issue.
 
-##### Changes you plan on implementing to your visualizations next week to address the issues identified 
+##### Changes I plan on implementing to my visualizations next week to address the issues identified 
 After carefully listening to feedback of the 3 interviewees and also the feedback that I receieved in the class, I have realised that some changes are needed to make this story line even better, less confusing and more compelling to the intended audience. <br />
 
 1) The first visualisation (the tree map) needs to be modified. <br />
 I plan to remove the "others" from the visualisation as it is not important to convey the point I am trying to make, and removing it wont' really affect the visualisation or reduce the truthfulness of the visualisation. <br />
 The other change I want to make is highlight or color all the diseases related to obesity with same color, so that I can easiy draw reader's focus to them.<br />
 
-2) 
+2) I also would like to make a more compelling statement as to how these diseases that I have highlighted have obesity as one of the major factors as their root cause, this will help me make the reader understand how obesity is the 2nd highest reason for deaths in the United States. <br />
+
+3) 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
