@@ -60,6 +60,11 @@ I interviewed 3 individuals.  2 were students in mid 20s and 1 was Software Deve
 
 ##### Changes you plan on implementing to your visualizations next week to address the issues identified 
 After carefully listening to feedback of the 3 interviewees and also the feedback that I receieved in the class, I have realised that some changes are needed to make this story line even better, less confusing and more compelling to the intended audience. <br />
-1) 
+
+1) The first visualisation (the tree map) needs to be modified. <br />
+I plan to remove the "others" from the visualisation as it is not important to convey the point I am trying to make, and removing it wont' really affect the visualisation or reduce the truthfulness of the visualisation. <br />
+The other change I want to make is highlight or color all the diseases related to obesity with same color, so that I can easiy draw reader's focus to them.<br />
+
+2) 
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
