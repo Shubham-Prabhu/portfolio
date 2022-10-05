@@ -8,6 +8,13 @@ I have used Shorthand to create a draft for the story I want to tell. I have als
 <script src="https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/embed.js"></script>
 <br />
 
+Here I wanted to first introduce the reader to the background and convey why this issue is important and needs to be addressed. <br />
+So for background / introduct part, I have included how obesity is the second biggest reason behind deaths in the United States and how it has been increasing over the years. <br />
+After this, I wanted to address the main lifestyle related cause behind obesity, that is fast food. <br />
+Hence, I showed the visualisations depicting that more than 1/3rd Americans consume fast food a daily basis. <br />
+To dig deeper, I also showed how calorie intake for americans has inceased over the years, which aligns with inceasing obesity over the years. <br />
+Post this I have mentioned the steps taken by government to make people more aware of the calories they are consuming and then the actions that need to be taken by everyone to reduce this problem in the country.<br />
+
 Currently since this is just a draft, I haven't mentioned all the references in the Shorthand, I will be adding all the references and the resources that I used before submitting the final project. <br />
 I was also not able to integrate Fourish in Shorthand (something I'll be doing for Final Project), hence the references for some stuff might not be mentioned as I took a screenshot and posted it in Shorthand.
 
