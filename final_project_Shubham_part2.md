@@ -8,7 +8,8 @@ I have used Shorthand to create a draft for the story I want to tell. I have als
 <script src="https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/embed.js"></script>
 <br />
 
-Currently since this is just a draft, I haven't mentioned all the references in the Shorthand, I will be adding all the references and the resources that I used before submitting the final project.
+Currently since this is just a draft, I haven't mentioned all the references in the Shorthand, I will be adding all the references and the resources that I used before submitting the final project. <br />
+I was also not able to integrate Fourish in Shorthand (something I'll be doing for Final Project), hence the references for some stuff might not be mentioned as I took a screenshot and posted it in Shorthand.
 
 #### User research and interviews
 
