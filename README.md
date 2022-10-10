@@ -25,3 +25,7 @@ Link to the Part I: Final project [Part I: Final project](https://shubham-prabhu
 ## Part II: Final project
 
 Link to the Part II: Final project [Part II: Final project](https://shubham-prabhu.github.io/portfolio/final_project_Shubham_part2.html)
+
+## Part III: Final project
+
+Link to the Part III: Final project [Part III: Final project](https://shubham-prabhu.github.io/portfolio/final_project_Shubham_part3.html)
