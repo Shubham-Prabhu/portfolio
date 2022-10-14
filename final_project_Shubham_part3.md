@@ -14,4 +14,7 @@ Comments from TA and the professor along with multiple interivews that I conduct
 2) I got the suggestion that many visualisations in the story were not really adding anything to the story (like the obesity rate across the states). So I decided to analyse people across various demographics who are more prone to obesity and consuming fast-food on a daily basis, added various visualisations showing the same and made sure that all the visualisations are part of the story that I am trying to tell. <br/>
 3) In the tree map showing the leading causes behind deaths in the US, I got the feedback that the obesity related diseases were not being highlighted and that the "other" category was the biggest and was creating a distraction from the important information. To tackle this issue, I removed the other category and highlighted the obesity related diseases with one color and all the remaining diseases were given gray color. <br/>
 
+#### The audience
+This was intended for audience between age group of 18 and 40 residing the US. Since most of the obesity related diseases don't show up until late, for people between 18 to 40 age it is the right time to act upon it and prevent them from occuring. 
+
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
