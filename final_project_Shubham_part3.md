@@ -21,7 +21,7 @@ Comments from TA and the professor along with multiple interviews that I conduct
 I also made sure that the transition between different slides is smooth and the reader doesn't feel confused when looking at various visualisations.
 
 #### The audience
-This was intended for audience between age group of 18 and 40 residing the US. Since most of the obesity related diseases don't show up until late, for people between 18 to 40 age it is the right time to act upon it and prevent them from occuring. To target this audience, I made sure to include various diet and consumption habits that they can relate to and which they consume as a part of their life.
+This was intended for audience between age group of 18 and 40 residing the US. It seems like a vey broad group, but since this problem itself is very broad and the fact that it is increasing rapidly, everyone needs to aware of this. Since most of the obesity related diseases don't show up until late, for people between 18 to 40 age it is the right time to act upon it and prevent them from occuring. To target this audience, I made sure to include various diet and consumption habits that they can relate to and which they consume as a part of their life.
 
 #### Learnings from working through the process
 One of the most important thing that I learnt was that the visualisations should easily bring the focus of the reader on what's important and should not distract the reader with unnecessary information. I used various colors along with gray to highlight important stuff that I want to show and I also removed a lot if stuff which I thought wasn't helping me with showing the information that I wanted to show and was just a distraction.  
