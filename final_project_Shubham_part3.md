@@ -15,6 +15,11 @@ Comments from TA and the professor along with multiple interivews that I conduct
 3) In the tree map showing the leading causes behind deaths in the US, I got the feedback that the obesity related diseases were not being highlighted and that the "other" category was the biggest and was creating a distraction from the important information. To tackle this issue, I removed the other category and highlighted the obesity related diseases with one color and all the remaining diseases were given gray color. <br/>
 
 #### The audience
-This was intended for audience between age group of 18 and 40 residing the US. Since most of the obesity related diseases don't show up until late, for people between 18 to 40 age it is the right time to act upon it and prevent them from occuring. 
+This was intended for audience between age group of 18 and 40 residing the US. Since most of the obesity related diseases don't show up until late, for people between 18 to 40 age it is the right time to act upon it and prevent them from occuring. To target this audience, I made sure to include various diet and consumption habits that they can relate to and which they consume as a part of their life.
+
+#### Learnings from working through the process
+One of the most important thing that I learnt was that the visualisations should easily bring the focus of the reader on what's important and should not distract the reader with unnecessary information. I used various colors along with gray to highlight important stuff that I want to show and I also removed a lot if stuff which I thought wasn't helping me with showing the information that I wanted to show and was just a distraction.  
+
+
 
 [Link Back to Portfolio Page](https://shubham-prabhu.github.io/portfolio/)
