@@ -1,6 +1,6 @@
 ### Part III: Final project
 
-#### Shorthand Link: <br/>
+#### Shorthand Link: 
 
 [The Obesity Epidemic in United States](https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/index.html) <br/>
 https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/index.html
