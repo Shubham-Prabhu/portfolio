@@ -2,7 +2,7 @@
 
 #### Shorthand Link: <br/>
 
-[The Obesity Epidemic in United States](https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/index.html)
+[The Obesity Epidemic in United States](https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/index.html) <br/>
 https://carnegiemellon.shorthandstories.com/being-obese-can-kill-you/index.html
 
 
